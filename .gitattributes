@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
+# Auto detect text files and perform LF normalization 
+# password = reynolds_r@p123 
+
 * text=auto
